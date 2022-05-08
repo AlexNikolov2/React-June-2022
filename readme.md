@@ -2,6 +2,8 @@
 
 Github repository for my works during the React course at Softuni.
 
+![al text](https://softuni.bg/files/courses/25.06-software-react-js.jpg)
+
 Lectures:
 
 * - [ ] Intro to React and JSX
