@@ -13,3 +13,11 @@ Lectures:
 * - [ ] Forms
 * - [ ] React Hooks
 * - [ ] Advanced Techniques 
+
+Workshops:
+
+* - [ ] Components
+* - [ ] Single Page Application
+* - [ ] Forms
+* - [ ] Authentication
+* - [ ] Advanced Techniques
