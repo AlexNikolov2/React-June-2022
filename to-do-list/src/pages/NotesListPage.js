@@ -1,5 +1,5 @@
 import React from 'react'
-import notes from '../../assets/data.js'
+import notes from '../assets/data.js'
 import ListItem from '../components/ListItem'
 
 const NotesListPage = () => {
