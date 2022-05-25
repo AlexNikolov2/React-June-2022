@@ -4,11 +4,14 @@ import * as gameService from '../services/gameService';
 const GameDetails = ({ match, }) => {
     const [game, setGame] = useState({});
     
-    useEffect(async () => {
-        let result = await gameService.getOne(match.params.gameId);
+    useEffect(() => {
+        async function fetchData() {
+            let result = await gameService.getOne(match.params.gameId);
 
-        setGame(result);
-    }, []);
+            setGame(result);
+        }
+        fetchData();
+    }, [match.params.gameId]);
     
     return (
         <section id="game-details">
@@ -58,3 +61,18 @@ const GameDetails = ({ match, }) => {
     }
 
     export default GameDetails;
+
+    /*
+    Effect callbacks are synchronous to prevent race conditions. Put the async function inside:
+
+useEffect(() => {
+  async function fetchData() {
+    // You can await here
+    const response = await MyAPI.getData(someId);
+    // ...
+  }
+  fetchData();
+}, [someId]); // Or [] if effect doesn't need props or state
+
+Learn more about data fetching with Hooks: https://reactjs.org/link/hooks-data-fetching
+     */
