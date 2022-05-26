@@ -1,4 +1,5 @@
-import { useHistory } from 'react-router-dom';
+/* eslint-disable no-unused-vars */
+import { Link, useHistory } from 'react-router-dom';
 
 const Login = ({
     history
@@ -28,7 +29,7 @@ const Login = ({
                     <input type="password" id="login-password" name="password" />
                     <input type="submit" className="btn submit" value="Login" />
                     <p className="field">
-                        <span>If you don't have profile click <a href="#">here</a></span>
+                        <span>If you don't have profile click <Link to="/login">here</Link></span>
                     </p>
                 </div>
             </form>
