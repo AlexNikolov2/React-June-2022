@@ -1,6 +1,6 @@
 import { useState, useEffect} from 'react';
 
-import * as gameService from '../services/gameService';
+import * as gameService from '../services/game.service';
 
 import LatestGameCard from './LatestGameCard';
 

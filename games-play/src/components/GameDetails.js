@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import * as gameService from '../services/gameService';
+import * as gameService from '../services/game.service';
 
 const GameDetails = ({ match, }) => {
     const [game, setGame] = useState({});
