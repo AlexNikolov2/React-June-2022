@@ -32,6 +32,7 @@ function getToken() {
         let userItem = localStorage.getItem('user');
 
         if (!userItem) {
+            // eslint-disable-next-line no-throw-literal
             throw {message: 'You must be authenticated'};
         }
 
