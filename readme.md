@@ -21,3 +21,5 @@ Workshops:
 * - [ ] Forms
 * - [ ] Authentication
 * - [ ] Advanced Techniques
+
+**Project Defense: 13 August 2022.**
