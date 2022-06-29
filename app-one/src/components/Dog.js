@@ -10,7 +10,7 @@ function Dog(){
         <p className="styled-text">I am a styled component thanks to normal, imported CSS.</p>
         <span>Here is a wonderful picture of me:</span>
         <br/>
-        <img src={doggo} alt="unable to load img"/>
+        <img src={doggo} alt="unable to load img" className='doggo'/>
         </div>
     )
 }
