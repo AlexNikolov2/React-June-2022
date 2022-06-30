@@ -22,4 +22,15 @@ Workshops:
 * - [ ] Authentication
 * - [ ] Advanced Techniques
 
+Apps that I have build thanks to JavaScript Mastery:
+
+* [x] Memories /Full stack MERN app
+* [x] Fitness App
+
+Apps built during workshops:
+
+* [x] GamesPlay
+* [x] PetMyPet
+* [x] ToDoList
+
 **Project Defense: 13 August 2022.**
