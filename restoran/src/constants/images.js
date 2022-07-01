@@ -21,6 +21,7 @@ import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 
+/* eslint-disable import/no-anonymous-default-export */
 export default {
   bg,
   chef,
@@ -45,3 +46,4 @@ export default {
   quote,
   gericht,
 };
+
