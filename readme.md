@@ -26,7 +26,7 @@ Apps that I have build thanks to JavaScript Mastery:
 
 * [x] Memories /Full stack MERN app
 * [x] Fitness App
-* [ ] Restaurant App
+* [x] Restaurant App
 
 Apps built during workshops:
 
