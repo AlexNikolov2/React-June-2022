@@ -8,7 +8,7 @@ Lectures:
 
 * - [x] Intro to React and JSX
 * - [x] Components: Basic Idea
-* - [ ] Components: Deep dive
+* - [x] Components: Deep dive
 * - [ ] Routing
 * - [ ] Forms
 * - [ ] React Hooks
