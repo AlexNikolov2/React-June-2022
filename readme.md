@@ -16,7 +16,7 @@ Lectures:
 
 Workshops:
 
-* - [ ] Components
+* - [x] Components
 * - [ ] Single Page Application
 * - [ ] Forms
 * - [ ] Authentication
