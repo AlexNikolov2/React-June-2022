@@ -10,7 +10,7 @@ Lectures:
 * - [x] Components: Basic Idea
 * - [x] Components: Deep dive
 * - [ ] Routing
-* - [ ] Forms
+* - [x] Forms
 * - [ ] React Hooks
 * - [ ] Advanced Techniques 
 
