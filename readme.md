@@ -17,8 +17,7 @@ Lectures:
 Workshops:
 
 * - [x] Components
-* - [ ] Single Page Application
-* - [ ] Forms
+* - [ ] Routing
 * - [ ] Authentication
 * - [ ] Advanced Techniques
 
