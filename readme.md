@@ -9,15 +9,15 @@ Lectures:
 * - [x] Intro to React and JSX
 * - [x] Components: Basic Idea
 * - [x] Components: Deep dive
-* - [ ] Routing
+* - [x] Routing
 * - [x] Forms
-* - [ ] React Hooks
+* - [x] React Hooks
 * - [ ] Advanced Techniques 
 
 Workshops:
 
 * - [x] Components
-* - [ ] Routing
+* - [x] Routing
 * - [ ] Authentication
 * - [ ] Advanced Techniques
 
