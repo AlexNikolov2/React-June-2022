@@ -12,14 +12,14 @@ Lectures:
 * - [x] Routing
 * - [x] Forms
 * - [x] React Hooks
-* - [ ] Advanced Techniques 
+* - [x] Advanced Techniques 
 
 Workshops:
 
 * - [x] Components
 * - [x] Routing
-* - [ ] Authentication
-* - [ ] Advanced Techniques
+* - [x] Authentication
+* - [x] Advanced Techniques
 
 Apps that I have build thanks to JavaScript Mastery:
 
@@ -34,3 +34,4 @@ Apps built during workshops:
 * [x] ToDoList
 
 **Project Defense: 13 August 2022.**
+
