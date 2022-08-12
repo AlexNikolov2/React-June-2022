@@ -35,3 +35,5 @@ Apps built during workshops:
 
 **Project Defense: 13 August 2022.**
 
+**Project: Avtoborsa**
+
