@@ -33,7 +33,8 @@ Apps built during workshops:
 * [x] PetMyPet
 * [x] ToDoList
 
-**Project Defense: 13 August 2022.**
-
 **Project: Avtoborsa**
+Grade: 6.00/6.00
+
+Certificate: https://softuni.bg/certificates/details/140637/27c365f3
 
